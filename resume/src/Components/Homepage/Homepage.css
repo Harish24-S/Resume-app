@@ -5,7 +5,7 @@
 }
 .homepage_left{
     flex: 0.6;
-    
+    padding-right: 30px;
 }
 .homepage_right{
     flex: 0.4;
@@ -28,5 +28,13 @@
     font-size: 30px;    
 }
 .homepage_left_description{
-    
+    font-size: 13px;
+}
+.homepage_left_button{
+    margin-top: 25px;
+    font-size: 20px;
+    padding: 8px 10px;
+    background-color: black;
+    color: red;
+    cursor: pointer;
 }
