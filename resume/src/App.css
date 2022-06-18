@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+  background-color: black;
+  color: whitesmoke;
+}
+
+.app{
+  background-color: black;
+  padding: 0 7%;
+}
