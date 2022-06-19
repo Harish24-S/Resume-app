@@ -12,8 +12,8 @@ function Homepage(){
             <p className="homepage_left_h3">Developer at <span className="red_color">Somewhere</span></p>
             <p className="homepage_left_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             <div>
-                <a href="" target="_blank"><img src={githubicon} alt="github image" /></a>
-                <a href="" target="_blank"><img src={linkedinicon} alt="linkedin image" /></a>
+                <a href="" target="_blank"><img className="homepage_icon" src={githubicon} alt="github image" /></a>
+                <a href="" target="_blank"><img className="homepage_icon" src={linkedinicon} alt="linkedin image" /></a>
             </div>
             <a href="mailto:harishsarika24@gmail.com"><button className="homepage_left_button">Get In Touch</button></a>
             </div>
